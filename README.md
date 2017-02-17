@@ -40,5 +40,6 @@ RNPolyline.decode('_jpeFn||hVf}qcBvnixEfwtoF_fic_Afh|w@~u`zC')
   { latitude: -18.142, longitude: 178.431 },
   { latitude: -27.467, longitude: 153.027 }
   ]
+```
 ## Contribute
-The project is using babel and uglifyjs to compile so make sure you have both if you want to clone the repo 
+The project is using babel and uglifyjs to compile so make sure you have both if you want to clone the repo
