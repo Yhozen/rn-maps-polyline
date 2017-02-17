@@ -1,6 +1,6 @@
 {
   "name": "rn-maps-polyline",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tiny library to use polyline in react-native-maps",
   "main": "lib/index.js",
   "scripts": {
