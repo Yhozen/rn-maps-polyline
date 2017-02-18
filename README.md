@@ -15,6 +15,8 @@ $ npm install --save rn-maps-polyline
 
 ```js
 import RNPolyline  from 'rn-maps-polyline'
+//or
+import { decode, encode } from 'rn-maps-polyline'
 ```
 or
 
