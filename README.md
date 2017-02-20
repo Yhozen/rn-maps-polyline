@@ -3,7 +3,10 @@
 [![npm](https://img.shields.io/npm/l/rn-maps-polyline.svg?style=flat-square)](https://npmjs.com/package/rn-maps-polyline)
 [![npm](https://img.shields.io/npm/dm/rn-maps-polyline.svg?style=flat-square)](https://npmjs.com/package/rn-maps-polyline)
 
-A tiny library to use polyline in react-native-maps, it adapt the output from google-polyline to the input that MapView.Polyline needs
+A tiny library to use polyline in react-native-maps (MapView.Polyline), based in [google-polyline](https://www.npmjs.com/package/google-polyline) 
+
+## v2.0.0
+Now decoding is almost 3x times faster than before
 
 ## Install via [npm](https://npmjs.com)
 
